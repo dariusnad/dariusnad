@@ -1,0 +1,1 @@
+Hi there! I'm Darius Nadem and currently completing my Computer Engineering degreee at Simon Fraser University. I have previous work experience at Sierra Wireless as a Software Test Developer and Tantalus Systems working as a Technical Support Engineer. Some of my interests include databases, server management, user interface design, and software development.
